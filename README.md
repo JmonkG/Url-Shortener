@@ -20,5 +20,3 @@ Be sure to change the `uri` variable in `database.js` according to your own Mong
 npm install
 npm start
 ```
-## Feedback
-I'm a student and I really would like to hear case you have any tips, correction suggestions or comments about any my of projects (🤓).
